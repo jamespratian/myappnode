@@ -2,3 +2,4 @@ git rm -r --cached .
 git add .
 git commit -m "remove gitignore files"
 git push
+__******************************git status commnads**************************8
